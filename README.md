@@ -9,6 +9,6 @@ Execution Steps:
 **Inorder to view the database manually, since the database is hosted on cloud, you need to connect your MYSQL Workbench to AWS RDS Instance.
 Connection Procedure:
 1. Open MYSQL Workbench, click on "New Connection". Give a name to this connection.
-2. Set Hostname = This will be endpoint given in AWS website as explained in the report.
+2. Set Hostname = This will be endpoint given in AWS website(explained in the report)
 3. Set Username = root
 4. Password = (Can get from code).
