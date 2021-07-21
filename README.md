@@ -1,4 +1,7 @@
 # DatabaseProject
+-	Travel - Journal is a simple, easy to use web-application where a  registered ‘User’ can : post about his/her Vacation/Holiday Trips , access a Personal Diary and create a ‘To Do List’ while on the go .
+-	Languages used : PHP ,HTML, BootStrap, MySQL
+
 Execution Steps:
 1. Make sure you have wamp or xampp SERVER up and running. We used WAMP.
 3. Copy the awstravel folder and paste it in windows->WAMP->WWW
